@@ -1,4 +1,4 @@
-# install-B2SHARE
+# Install B2SHARE
 
 Create an account on B2ACCESS
 ------------------------------
